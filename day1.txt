@@ -1,0 +1,6 @@
+Hey this is day for learning git and github.
+
+Find a good looking tutorial and trying something interesting.
+
+
+trying some command like git init ,add,diff,status and many more to come . let's see
